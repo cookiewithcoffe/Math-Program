@@ -1,0 +1,192 @@
+Lesson: matematik
+
+TEST1
+----------start of test----------
+Soru1
+1+1 kaçtır?
+Kare) 2
+Üçgen) 3
+Daire) 4
+CorrectAnswer=Kare
+---------------------------------
+Soru2
+1+2 kaçtır?
+Kare) 2
+Üçgen) 3
+Daire) 4
+CorrectAnswer=Üçgen
+----------end of test------------
+
+TEST2
+----------start of test----------
+Soru1
+3-2 kaçtır?
+Kare) 1
+Üçgen) 2
+Daire) 3
+CorrectAnswer=Kare
+---------------------------------
+Soru2
+2+2 kaçtır?
+Kare) 1
+Üçgen) 4
+Daire) 3
+CorrectAnswer=Üçgen
+---------------------------------
+Soru3
+5-3 kaçtır?
+Kare) 1
+Üçgen) 2
+Daire) 3
+CorrectAnswer=Üçgen
+---------------------------------
+Soru4
+6-4 kaçtır?
+Kare) 1
+Üçgen) 2
+Daire) 3
+CorrectAnswer=Üçgen
+---------------------------------
+Soru5
+7-2 kaçtır?
+Kare) 1
+Üçgen) 5
+Daire) 3
+CorrectAnswer=Üçgen
+---------------------------------
+Soru6
+8-3 kaçtır?
+Kare) 1
+Üçgen) 5
+Daire) 3
+CorrectAnswer=Üçgen
+---------------------------------
+Soru7
+9-4 kaçtır?
+Kare) 1
+Üçgen) 5
+Daire) 3
+CorrectAnswer=Üçgen
+---------------------------------
+Soru8
+10-5 kaçtır?
+Kare) 1
+Üçgen) 5
+Daire) 3
+CorrectAnswer=Üçgen
+---------------------------------
+Soru9
+11-6 kaçtır?
+Kare) 1
+Üçgen) 5
+Daire) 3
+CorrectAnswer=Üçgen
+---------------------------------
+Soru10
+12-7 kaçtır?
+Kare) 1
+Üçgen) 3
+Daire) 5
+CorrectAnswer=Daire
+---------------------------------
+Soru11
+13-8 kaçtır?
+Kare) 1
+Üçgen) 5
+Daire) 3
+CorrectAnswer=Üçgen
+---------------------------------
+Soru12
+14-9 kaçtır?
+Kare) 1
+Üçgen) 5
+Daire) 3
+CorrectAnswer=Üçgen
+---------------------------------
+Soru13
+15-10 kaçtır?
+Kare) 1
+Üçgen) 5
+Daire) 3
+CorrectAnswer=Üçgen
+---------------------------------
+Soru14
+16-11 kaçtır?
+Kare) 1
+Üçgen) 5
+Daire) 3
+CorrectAnswer=Üçgen
+---------------------------------
+Soru15
+17-12 kaçtır?
+Kare) 1
+Üçgen) 5
+Daire) 3
+CorrectAnswer=Üçgen
+---------------------------------
+Soru16
+18-13 kaçtır?
+Kare) 1
+Üçgen) 5
+Daire) 3
+CorrectAnswer=Üçgen
+---------------------------------
+Soru17
+19-14 kaçtır?
+Kare) 1
+Üçgen) 5
+Daire) 3
+CorrectAnswer=Üçgen
+---------------------------------
+Soru18
+20-15 kaçtır?
+Kare) 1
+Üçgen) 5
+Daire) 3
+CorrectAnswer=Üçgen
+---------------------------------
+Soru19
+21-16 kaçtır?
+Kare) 1
+Üçgen) 5
+Daire) 3
+CorrectAnswer=Üçgen
+---------------------------------
+Soru20
+22-17 kaçtır?
+Kare) 1
+Üçgen) 5
+Daire) 3
+CorrectAnswer=Üçgen
+----------end of test------------
+________end of lesson part____________
+
+Lesson: hayatbilgisi
+
+TEST1
+----------start of test----------
+Soru1
+Atatürk'ün doğum yeri neresidir?
+Kare) İstanbul
+Üçgen) Selanik
+Daire) Ankara
+CorrectAnswer=Üçgen
+---------------------------------
+Soru2
+Türkiye'nin başkenti neresidir?
+Kare) İstanbul
+Üçgen) Selanik
+Daire) Ankara
+CorrectAnswer=Daire
+----------end of test------------
+
+TEST2
+----------start of test----------
+Soru1
+Türkiye'nin başkenti hangi şehirdir?
+Kare) İzmir
+Üçgen) Ankara
+Daire) İstanbul
+CorrectAnswer=Üçgen
+----------end of test------------
+________end of lesson part____________

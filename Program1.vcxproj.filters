@@ -1,0 +1,178 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="Kaynak Dosyalar">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;c++;cppm;ixx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="Üst Bilgi Dosyaları">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hh;hpp;hxx;h++;hm;inl;inc;ipp;xsd</Extensions>
+    </Filter>
+    <Filter Include="Kaynak Dosyaları">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
+    </Filter>
+    <Filter Include="Kaynak Dosyalar\Resources">
+      <UniqueIdentifier>{8b2e5015-dc09-4bae-a2cb-a877c47f5ca1}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Üst Bilgi Dosyaları\Gui">
+      <UniqueIdentifier>{106dd829-f071-4b34-9bbf-887698266473}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="main.cpp">
+      <Filter>Kaynak Dosyaları</Filter>
+    </ClCompile>
+    <ClCompile Include="Gui\Slider.cpp">
+      <Filter>Üst Bilgi Dosyaları\Gui</Filter>
+    </ClCompile>
+    <ClCompile Include="Gui\SpriteButton.cpp">
+      <Filter>Üst Bilgi Dosyaları\Gui</Filter>
+    </ClCompile>
+    <ClCompile Include="Gui\TextBox.cpp">
+      <Filter>Üst Bilgi Dosyaları\Gui</Filter>
+    </ClCompile>
+    <ClCompile Include="Gui\Theme.cpp">
+      <Filter>Üst Bilgi Dosyaları\Gui</Filter>
+    </ClCompile>
+    <ClCompile Include="Gui\Widget.cpp">
+      <Filter>Üst Bilgi Dosyaları\Gui</Filter>
+    </ClCompile>
+    <ClCompile Include="Gui\Layouts\FormLayout.cpp">
+      <Filter>Üst Bilgi Dosyaları\Gui</Filter>
+    </ClCompile>
+    <ClCompile Include="Gui\Layouts\HBoxLayout.cpp">
+      <Filter>Üst Bilgi Dosyaları\Gui</Filter>
+    </ClCompile>
+    <ClCompile Include="Gui\Layouts\Layout.cpp">
+      <Filter>Üst Bilgi Dosyaları\Gui</Filter>
+    </ClCompile>
+    <ClCompile Include="Gui\Layouts\VBoxLayout.cpp">
+      <Filter>Üst Bilgi Dosyaları\Gui</Filter>
+    </ClCompile>
+    <ClCompile Include="Gui\Utils\Arrow.cpp">
+      <Filter>Üst Bilgi Dosyaları\Gui</Filter>
+    </ClCompile>
+    <ClCompile Include="Gui\Utils\Box.cpp">
+      <Filter>Üst Bilgi Dosyaları\Gui</Filter>
+    </ClCompile>
+    <ClCompile Include="Gui\Utils\Cross.cpp">
+      <Filter>Üst Bilgi Dosyaları\Gui</Filter>
+    </ClCompile>
+    <ClCompile Include="Gui\Button.cpp">
+      <Filter>Üst Bilgi Dosyaları\Gui</Filter>
+    </ClCompile>
+    <ClCompile Include="Gui\CheckBox.cpp">
+      <Filter>Üst Bilgi Dosyaları\Gui</Filter>
+    </ClCompile>
+    <ClCompile Include="Gui\Image.cpp">
+      <Filter>Üst Bilgi Dosyaları\Gui</Filter>
+    </ClCompile>
+    <ClCompile Include="Gui\Label.cpp">
+      <Filter>Üst Bilgi Dosyaları\Gui</Filter>
+    </ClCompile>
+    <ClCompile Include="Gui\Menu.cpp">
+      <Filter>Üst Bilgi Dosyaları\Gui</Filter>
+    </ClCompile>
+    <ClCompile Include="Gui\ProgressBar.cpp">
+      <Filter>Üst Bilgi Dosyaları\Gui</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="NewFeatures.hpp">
+      <Filter>Üst Bilgi Dosyaları</Filter>
+    </ClInclude>
+    <ClInclude Include="Button.hpp">
+      <Filter>Üst Bilgi Dosyaları</Filter>
+    </ClInclude>
+    <ClInclude Include="Gui\ProgressBar.hpp">
+      <Filter>Üst Bilgi Dosyaları\Gui</Filter>
+    </ClInclude>
+    <ClInclude Include="Gui\Slider.hpp">
+      <Filter>Üst Bilgi Dosyaları\Gui</Filter>
+    </ClInclude>
+    <ClInclude Include="Gui\SpriteButton.hpp">
+      <Filter>Üst Bilgi Dosyaları\Gui</Filter>
+    </ClInclude>
+    <ClInclude Include="Gui\TextBox.hpp">
+      <Filter>Üst Bilgi Dosyaları\Gui</Filter>
+    </ClInclude>
+    <ClInclude Include="Gui\Theme.hpp">
+      <Filter>Üst Bilgi Dosyaları\Gui</Filter>
+    </ClInclude>
+    <ClInclude Include="Gui\Widget.hpp">
+      <Filter>Üst Bilgi Dosyaları\Gui</Filter>
+    </ClInclude>
+    <ClInclude Include="Gui\Enums\Enums.hpp">
+      <Filter>Üst Bilgi Dosyaları\Gui</Filter>
+    </ClInclude>
+    <ClInclude Include="Gui\Layouts\FormLayout.hpp">
+      <Filter>Üst Bilgi Dosyaları\Gui</Filter>
+    </ClInclude>
+    <ClInclude Include="Gui\Layouts\HBoxLayout.hpp">
+      <Filter>Üst Bilgi Dosyaları\Gui</Filter>
+    </ClInclude>
+    <ClInclude Include="Gui\Layouts\Layout.hpp">
+      <Filter>Üst Bilgi Dosyaları\Gui</Filter>
+    </ClInclude>
+    <ClInclude Include="Gui\Layouts\VBoxLayout.hpp">
+      <Filter>Üst Bilgi Dosyaları\Gui</Filter>
+    </ClInclude>
+    <ClInclude Include="Gui\Utils\Arrow.hpp">
+      <Filter>Üst Bilgi Dosyaları\Gui</Filter>
+    </ClInclude>
+    <ClInclude Include="Gui\Utils\Box.hpp">
+      <Filter>Üst Bilgi Dosyaları\Gui</Filter>
+    </ClInclude>
+    <ClInclude Include="Gui\Utils\Cross.hpp">
+      <Filter>Üst Bilgi Dosyaları\Gui</Filter>
+    </ClInclude>
+    <ClInclude Include="Gui\Utils\ItemBox.hpp">
+      <Filter>Üst Bilgi Dosyaları\Gui</Filter>
+    </ClInclude>
+    <ClInclude Include="Gui\Button.hpp">
+      <Filter>Üst Bilgi Dosyaları\Gui</Filter>
+    </ClInclude>
+    <ClInclude Include="Gui\CheckBox.hpp">
+      <Filter>Üst Bilgi Dosyaları\Gui</Filter>
+    </ClInclude>
+    <ClInclude Include="Gui\ComboBox.hpp">
+      <Filter>Üst Bilgi Dosyaları\Gui</Filter>
+    </ClInclude>
+    <ClInclude Include="Gui\Gui.hpp">
+      <Filter>Üst Bilgi Dosyaları\Gui</Filter>
+    </ClInclude>
+    <ClInclude Include="Gui\Image.hpp">
+      <Filter>Üst Bilgi Dosyaları\Gui</Filter>
+    </ClInclude>
+    <ClInclude Include="Gui\Label.hpp">
+      <Filter>Üst Bilgi Dosyaları\Gui</Filter>
+    </ClInclude>
+    <ClInclude Include="Gui\Menu.hpp">
+      <Filter>Üst Bilgi Dosyaları\Gui</Filter>
+    </ClInclude>
+    <ClInclude Include="Gui\OptionsBox.hpp">
+      <Filter>Üst Bilgi Dosyaları\Gui</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <Font Include="Resources\arial.ttf">
+      <Filter>Kaynak Dosyalar\Resources</Filter>
+    </Font>
+    <Font Include="Resources\font.ttf">
+      <Filter>Kaynak Dosyalar\Resources</Filter>
+    </Font>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Gui\Utils\ItemBox.inl">
+      <Filter>Üst Bilgi Dosyaları\Gui</Filter>
+    </None>
+    <None Include="Gui\ComboBox.inl">
+      <Filter>Üst Bilgi Dosyaları\Gui</Filter>
+    </None>
+    <None Include="Gui\OptionsBox.inl">
+      <Filter>Üst Bilgi Dosyaları\Gui</Filter>
+    </None>
+  </ItemGroup>
+</Project>
